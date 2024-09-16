@@ -26,7 +26,7 @@ A chatbot designed to provide information about various medicines, including the
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/AbhinayaVeerapannei/Med_Bud.git>
    cd medicine-chatbot
    ```
 
